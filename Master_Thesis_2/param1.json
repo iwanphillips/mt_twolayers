@@ -6,6 +6,8 @@
    "lambda one": 0.085,
    "lambda two": 0.045,
    "alpha": 1.45,
-   "simulation time": 3000,
-   "path": "/Users/iwanphillips/C++/Master_Thesis_2/Master_Thesis_2/data_square1.txt"
+   "layers": 1,
+   "simulation time": 400,
+   "path": "/Users/iwanphillips/C++/Master_Thesis_3_adding_noise/Master_Thesis_3_adding_noise/1layer_D_lamb2.txt",
+   "model": "standard"
 }

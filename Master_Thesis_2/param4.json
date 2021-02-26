@@ -1,0 +1,11 @@
+{
+   "number of oscillators": 256,
+   "range": 35,
+   "omega": 0.5,
+   "g": 0,
+   "lambda one": 0.085,
+   "lambda two": 0.045,
+   "alpha": 1.45,
+   "simulation time": 6000,
+   "path": "/Users/iwanphillips/C++/Master_Thesis_2/Master_Thesis_2/6000_square1.txt"
+}
